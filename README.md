@@ -9,6 +9,7 @@ Instruction for using this application:
 4. Enter the directory where the xmls are present.
 5. Enter the file path where the schema(.xsd) file is present.
 6. Click submit button once 4th and 5th steps are complete.
+7. For running this application with Windows scripts(.bat), put the jar aplication and the bat file in the same directory, run XmlValidator.bat script.
 
 Refer to screenshots for further clarifications.
 
