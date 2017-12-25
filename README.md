@@ -13,10 +13,12 @@ Instruction for using this application:
 
 Refer to screenshots for further clarifications.
 1. Starting page
+
 ![Alt text](https://github.com/amitsahu07/xo/blob/master/scr1.jpg?raw=true "Starting")
 
 
 2. Success page
+
 ![Alt text](https://github.com/amitsahu07/xo/blob/master/scr2.jpg?raw=true "Success Page")
 
 
