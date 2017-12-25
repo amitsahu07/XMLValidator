@@ -12,10 +12,11 @@ Instruction for using this application:
 7. For running this application with Windows scripts(.bat), put the jar aplication and the bat file in the same directory, run XmlValidator.bat script.
 
 Refer to screenshots for further clarifications.
-
+1. Starting page
 ![Alt text](https://github.com/amitsahu07/xo/blob/master/scr1.jpg?raw=true "Starting")
 
 
+2. Success page
 ![Alt text](https://github.com/amitsahu07/xo/blob/master/scr2.jpg?raw=true "Success Page")
 
 
